@@ -55,7 +55,7 @@ const Navbar = ({ user, onLogout }) => {
               style={{
                 background: "none",
                 border: "none",
-                color: "inherit",
+                color: "white",
                 cursor: "pointer",
                 fontSize: "1rem",
                 padding: 0,
